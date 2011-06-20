@@ -1,6 +1,6 @@
 //
 //  cNetwork.h
-//  Amagami
+//  pictureLibraryExample
 //
 //  Created by maliy on 6/11/11.
 //

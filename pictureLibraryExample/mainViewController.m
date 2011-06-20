@@ -1,6 +1,6 @@
 //
 //  mainViewController.m
-//  Amagami
+//  pictureLibraryExample
 //
 //  Created by maliy on 6/4/11.
 //
